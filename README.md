@@ -1,72 +1,82 @@
-# 💫 Hey , I am Sachin Kudatini
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin2003-WD!;I'm+a+Full+Stack+Developer;I+%E2%9D%A4%EF%B8%8F+Open+Source+%26+Tech" alt="Typing SVG" />
+  # 💫 Hey , I am Sachin Kudatini
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Sachin+K!;Web+Developer+%7C+AI+Builder;Loves+Anime+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sachin2003-WD&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently studying Computer science and Engineering   
-- 🌱 Learning: `Cloud`, `AI`, `OpenAI`,`next js`
-- 💬 Ask me about `Python`, `GPT`, `Streamlit`, `Full Stack Dev`,`openai`  
-- ⚡ Fun fact: I binge anime like crazy 🍜  
-- 📫 Reach me at: `cksachin94@gmail.com` | [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submite)
+## 👋 About Me
+
+- 🧠 Building: `MindMate`, `TaskMate`, and AI Tools
+- ⚙️ Focus: AI, Streamlit, Cloud, Full Stack
+- 📚 Anime Nerd: Naruto,Death Note,Demons Slayer,Solo leveling
+- 📫 Reach me: `cksachin94@gmail.com` | [LinkedIn](https://www.linkedin.com/in/sachin-c-k-991005280/)
 
 ---
 
-### 🛠️ Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,Excel,html,css,,git,github,streamlit,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,streamlit,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin2003-WD&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin2003-WD&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin2003-WD&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachin2003_WD&theme=radical&no-bg=true&no-frame=true&column=6&row=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2003-WD&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin2003-WD&theme=tokyonight" />
 </p>
 
 ---
 
-### 📂 Highlight Projects
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachin2003-WD&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin2003-WD&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 💼 Highlight Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 MindMate](https://github.com/YourGitHub/MindMate) | AI-powered mental wellness companion | `GPT`, `Streamlit`, `Python` |
-| [📄 GenAI Resume Builder](https://github.com/YourGitHub/ResumeBuilder) | AI-generated resumes + PDF export | `Streamlit`, `OpenAI`, `PDFKit` |
-| [🧪 Medicine Assistant](https://github.com/YourGitHub/MedicineApp) | Analyze medicine usage from strip | `OCR`, `TTS`, `Streamlit`, `QR` |
+| [🧠 MindMate](https://github.com/Sachin2003-WD/MindMate) | AI mental wellness companion | GPT, Streamlit, TTS |
+| [📄 Resume Builder](https://github.com/Sachin2003-WD/GenAI-Resume-Builder) | AI resume builder with PDF export | OpenAI, Streamlit |
+| [🧪 Medicine Assistant](https://github.com/Sachin2003-WD/GPT-Medicine-Assistant) | Analyze medicine info from strips | OCR, TTS, QR, PDF |
 
 ---
 
-### 🌐 Social Links
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sachin-c-k-991005280/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:cksachin94@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.facebook.com/yourprofile"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://x.com/SachinCK52651"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.facebook.com/Sachin+k"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
 ---
 
-### ✍️ Quote of the Day
+## ✍️ Daily Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
