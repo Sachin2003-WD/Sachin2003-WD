@@ -1,4 +1,4 @@
-  # 💫 Hey , I am Sachin Kudatini
+  # 💫 Hey , I am `Sachin Kudatini`
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Sachin+K!;Web+Developer+%7C+AI+Builder;Loves+Anime+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
