@@ -13,7 +13,7 @@
 
 - 🧠 Building: `MindMate`, `TaskMate`, and AI Tools
 - ⚙️ Focus: AI, Streamlit, Cloud, Full Stack
-- 📚 Anime Nerd: Naruto,Death Note,Demons Slayer,Solo leveling
+- 📚 Anime Nerd: Naruto, Death Note, Demons Slayer, Solo Leveling
 - 📫 Reach me: `cksachin94@gmail.com` | [LinkedIn](https://www.linkedin.com/in/sachin-c-k-991005280/)
 
 ---
