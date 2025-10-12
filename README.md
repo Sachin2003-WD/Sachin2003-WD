@@ -1,7 +1,7 @@
 # 💫 Hey, I'm Sachin Kudatini  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+AI+Learner;Full+Stack+Enthusiast;Anime+Lover+%F0%9F%8E%A5" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+AI+Learner;Frontend+Developer;Anime+Enthusiast+%F0%9F%8E%A5" alt="Typing Animation" />
 </p>
 
 <p align="center">
