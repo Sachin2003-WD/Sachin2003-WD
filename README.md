@@ -1,7 +1,7 @@
-# 💫 Hey, I'm Sachin Kudatini  
+# 👋 Hey, I'm Sachin Kudatini  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+AI+Learner;Frontend+Developer;Anime+Enthusiast+%F0%9F%8E%A5" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+AI+Learner;Frontend+Developer+%7C+Anime+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,16 +10,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me  
 
-- 🧠 Working on: **MindMate**, **TaskMate**, and **AI Tools**  
-- ⚙️ Focused on: **AI**, **Streamlit**, **Cloud**, and **Full Stack Development**  
-- 🎬 Anime enthusiast — *Naruto*, *Death Note*, *Demon Slayer*, *Solo Leveling*  
-- 📫 Reach me: **cksachin94@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sachin-c-k-991005280/)
+- 🚀 Building: **Mentoring System**, **Browzify**  
+- 🧠 Focused on: **AI**, **Streamlit**, **Cloud**, and **Full Stack Development**  
+- 🎬 Anime Enthusiast — *Naruto*, *Death Note*, *Solo Leveling*, *Demon Slayer*  
+- 📫 Reach me at: **cksachin94@gmail.com**  
+- 💼 Connect: [LinkedIn](https://www.linkedin.com/in/sachin-c-k-991005280/)
 
 ---
 
-## ⚡ Tech Stack  
+## ⚙️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,streamlit,git,github" />
@@ -27,29 +28,37 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin2003-WD&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin2003-WD&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2003-WD&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 🚀 Top Projects  
+## 🚀 Highlight Projects  
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🧠 **MindMate**](https://github.com/Sachin2003-WD/MindMate) | AI-powered mental wellness companion | GPT, Streamlit, TTS |
-| [📄 **GenAI Resume Builder**](https://github.com/Sachin2003-WD/GenAI-Resume-Builder) | Smart AI resume generator with PDF export | OpenAI API, Streamlit |
-| [💊 **GPT Medicine Assistant**](https://github.com/Sachin2003-WD/GPT-Medicine-Assistant) | Extracts & explains medicine info | OCR, TTS, PDF, QR |
+| [📄 **GenAI Resume Builder**](https://github.com/Sachin2003-WD/GenAI-Resume-Builder) | Smart resume builder with PDF export | OpenAI, Streamlit |
+| [💊 **GPT Medicine Assistant**](https://github.com/Sachin2003-WD/GPT-Medicine-Assistant) | Medicine analyzer from strip or name | OCR, TTS, QR, PDF |
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Trophies & Snake Game  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sachin2003-WD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Sachin2003-WD/Sachin2003-WD/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -70,3 +79,27 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: Sachin2003-WD
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
