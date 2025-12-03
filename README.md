@@ -1,116 +1,89 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#8A2BE2;">Sachin Kudatini</span></h1>
+<h1 align="center"># 🌟 Sachin Kudatini: Web Developer & AI Explorer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=550&lines=AI+Learner+%7C+Web+Developer;Frontend+Engineer+%7C+Streamlit+Builder;Tech+Explorer+%7C+Anime+Fan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Crafting+Modern+Web+Experiences;Integrating+AI+and+Full+Stack+Solutions" alt="Typing SVG - Web Developer | AI Explorer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachin2003-WD&label=Profile+Views&color=8A2BE2&style=flat-square" />
-</p>
-
----
-
-## 💫 About Me  
-
-- 🚀 Currently Building: **Mentoring System**, **Browzeify**, **AI Apps**  
-- 🧠 Focus Area: **AI**, **Streamlit**, **Cloud**, **Frontend Engineering**  
-- 💻 Passion: Creating clean UI + smart applications  
-- 🎬 Anime Addict → *Naruto*, *Death Note*, *Solo Leveling*, *Demon Slayer*  
-- 📫 Reach Me: **cksachin94@gmail.com**  
-- 🔗 LinkedIn: [Sachin C K](https://www.linkedin.com/in/sachin-c-k-991005280/)  
-
----
-
-## ⚙️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,streamlit,git,github,linux" />
+  <a href="https://github.com/Sachin2003-WD">
+    <img src="https://komarev.com/ghpvc/?username=Sachin2003-WD&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge&logo=github" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI+%2F+Streamlit-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="AI Streamlit Focus Badge" />
+  <img src="https://img.shields.io/badge/Role-Frontend-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Badge" />
 </p>
 
 ---
 
-# 🚀 Highlight Projects  
+## 💡 Quick Overview
 
-<br>
+I am a dedicated **Full Stack Enthusiast** and **Frontend Developer** with a sharp focus on integrating cutting-edge **AI/ML** solutions into practical web applications. I thrive on building tools that are efficient, scalable, and user-friendly.
 
-### 🧠 **MindMate — AI Mental Wellness Companion**  
-🔥 *Your most advanced AI project*  
-- Helps users with mental wellness via AI-generated suggestions  
-- Includes voice responses & smooth UI  
-- **Tech:** `GPT` `Streamlit` `Text-to-Speech`  
-🔗 Repo: **https://github.com/Sachin2003-WD/MindMate**
-
----
-
-### 📄 **GenAI Resume Builder — Smart PDF Creator**  
-- Creates ATS-friendly resumes using AI prompts  
-- Clean export to PDF with auto-formatting  
-- **Tech:** `OpenAI` `Streamlit`  
-🔗 Repo: **https://github.com/Sachin2003-WD/GenAI-Resume-Builder**
+* **🌐 Building:** Currently engineering the **Mentoring System** and developing **Browzify**.
+* **🎯 Expertise:** Specializing in **React.js** for dynamic interfaces and **Streamlit** for rapid data/AI application deployment.
+* **☁️ Future Focus:** Exploring **Cloud (AWS/Azure)** and advanced **DevOps** practices.
+* **📧 Contact:** `cksachin94@gmail.com`
+* **🔗 Connect:** [**My LinkedIn Profile**](https://www.linkedin.com/in/sachin-c-k-991005280/)
 
 ---
 
-### 💊 **GPT Medicine Assistant — Image & Strip Analyzer**  
-- Scan medicine strips → extract details → get AI explanation  
-- OCR + QR + PDF all integrated  
-- **Tech:** `OCR` `QR` `TTS` `PDF Tools`  
-🔗 Repo: **https://github.com/Sachin2003-WD/GPT-Medicine-Assistant**
+## ⚙️ Core Technical Toolkit
 
----
-
-### 🔍 **Browzeify — Smart Internet Search Engine**  
-- Fetches, summarizes & presents search results  
-- Uses SerpAPI + BeautifulSoup for deep scraping  
-- **Tech:** `Python` `Streamlit` `SerpAPI` `BeautifulSoup`  
-🔗 Repo: *(Your repo link here)*
-
----
-
-### 🎓 **Student–Faculty Mentoring System**  
-- Digital mentorship system for tracking student progress  
-- **Tech:** `Python` `Streamlit` `SQLite`  
-🔗 Repo: *(Your repo link here)*
-
----
-
-## 📊 GitHub Stats  
+My primary tech stack is built for fast development and AI-driven features.
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sachin2003-WD&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin2003-WD&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,python,streamlit,vscode,git,github,docker,aws,gcp" 
+       alt="React, HTML, CSS, JavaScript, Python, Streamlit, VSCode, Git, GitHub, Docker, AWS, GCP Icons" 
+       style="margin-bottom: 10px;"/>
+</p>
+
+| Area | Key Tools |
+| :--- | :--- |
+| **Frontend** | **React**, JavaScript, HTML5, CSS3 |
+| **Backend/Data** | **Python**, Streamlit, Pandas |
+| **AI/ML** | **OpenAI API (GPT)**, NLTK, Computer Vision (OCR) |
+| **DevOps/Cloud** | Git, GitHub, **Docker**, Exploring **AWS** and **GCP** |
+
+---
+
+## ✨ Signature Projects
+
+A selection of my best work demonstrating AI integration and strong web development skills.
+
+| Project | Description | Key Tech Stack |
+| :--- | :--- | :--- |
+| [🧠 **MindMate**](https://github.com/Sachin2003-WD/MindMate) | An empathetic **AI-powered mental wellness companion** providing accessible support and resources. | **GPT-4**, **Streamlit**, TTS |
+| [📄 **GenAI Resume Builder**](https://github.com/Sachin2003-WD/GenAI-Resume-Builder) | Smart tool that auto-generates tailored resumes using AI models with seamless PDF export. | **OpenAI**, **Python**, Streamlit |
+| [💊 **GPT Medicine Assistant**](https://github.com/Sachin2003-WD/GPT-Medicine-Assistant) | Analyzes medication information instantly from strip images or text input using OCR and generative AI. | OCR, TTS, QR, PDF Processing |
+
+---
+
+## 🏆 Trophies & Fun
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachin2003-WD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2003-WD&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Activity  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachin2003-WD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Sachin2003-WD/Sachin2003-WD/blob/output/github-contribution-grid-snake.svg" />
+  *(Bonus: Check out the contribution snake!)*
+  <img src="https://github.com/Sachin2003-WD/Sachin2003-WD/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 💌 Let's Connect
+
+Reach out for collaborations, project discussions, or even just to talk about development and AI!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin-c-k-991005280/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:cksachin94@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://x.com/SachinCK52651"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.linkedin.com/in/sachin-c-k-991005280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:cksachin94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-cksachin94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://x.com/SachinCK52651" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
 </p>
 
 ---
 
-## ✨ Daily Quote  
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  *"The future belongs to those who believe in the beauty of their dreams."*
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&maxwidth=600" alt="Daily Quote" />
 </p>
