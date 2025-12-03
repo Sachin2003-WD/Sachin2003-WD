@@ -1,4 +1,4 @@
-<h1 align="center"># 🌟 Sachin Kudatini: Web Developer & AI Explorer 🚀</h1>
+<h1 align="center">🌟 Sachin Kudatini: Web Developer & AI Explorer 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Crafting+Modern+Web+Experiences;Integrating+AI+and+Full+Stack+Solutions" alt="Typing SVG - Web Developer | AI Explorer" />
