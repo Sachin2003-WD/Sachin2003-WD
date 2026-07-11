@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007396&height=220&section=header&text=Sachin%20Kudatini&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-</p>
+<table width="100%">
+  <tr>
+    <td bgcolor="#007396" align="center" style="padding: 40px 10px; border-radius: 8px;">
+      <h1 style="color: #ffffff; font-family: 'Fira Code', monospace; margin: 0; font-size: 38px; letter-spacing: 2px;">SACHIN KUDATINI</h1>
+      <p style="color: #e0f2f1; font-family: 'Segoe UI', sans-serif; margin: 10px 0 0 0; font-size: 18px; font-weight: 300; letter-spacing: 1px;">JAVA FULL STACK DEVELOPER</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Enterprise+APIs;Database+Architect+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
@@ -18,10 +23,10 @@
 
 ## 🪐 About Me
 
-A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade backend microservices, structuring scalable relational databases, and crafting clean web architectures. 
+A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka[cite: 1]. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade backend microservices, structuring scalable relational databases, and crafting clean web architectures[cite: 1]. 
 
-* **🎯 Path & Trajectory:** Completing a Bachelor of Engineering in Computer Science & Engineering (2022 - 2026) while undergoing rigorous industry-grade training as a **Java Full Stack Trainee** at JSpiders, Rajajinagar.
-* **⚡ Architectural Mindset:** Focused on mastering the complexities of the Spring ecosystem, relational mappings (ORM), database optimization, and high-performance server logic.
+* **🎯 Path & Trajectory:** Completing a Bachelor of Engineering in Computer Science & Engineering (2022 - 2026)[cite: 1] while undergoing rigorous industry-grade training as a **Java Full Stack Trainee** at JSpiders, Rajajinagar[cite: 1].
+* **⚡ Architectural Mindset:** Focused on mastering the complexities of the Spring ecosystem, relational mappings (ORM), database optimization, and high-performance server logic[cite: 1].
 
 ---
 
@@ -32,28 +37,28 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 </p>
 
 ### 💻 Backend Engineering
-* **Languages:** Core Java (OOPs, Collections Framework, Exception Handling), SQL
-* **Frameworks & Specs:** Spring Boot, Hibernate ORM, JDBC, Java Servlets, JSP
-* **API Design:** RESTful Web Services, CRUD Architecture
+* **Languages:** Core Java (OOPs, Collections Framework, Exception Handling)[cite: 1], SQL[cite: 1]
+* **Frameworks & Specs:** Spring Boot, Hibernate ORM, JDBC, Java Servlets, JSP[cite: 1]
+* **API Design:** RESTful Web Services, CRUD Architecture[cite: 1]
 
 ### 🗄️ Database & Environment
-* **Data Management:** MySQL, Oracle SQL
-* **Tools & Automation:** Maven, Git, GitHub, Eclipse IDE
+* **Data Management:** MySQL, Oracle SQL[cite: 1]
+* **Tools & Automation:** Maven, Git, GitHub, Eclipse IDE[cite: 1]
 
 ### 🎨 Client Layer
-* **Web UI:** HTML5, CSS3, JavaScript (ES6+)
+* **Web UI:** HTML5, CSS3, JavaScript (ES6+)[cite: 1]
 
 ---
 
 ## 🚀 Signature Engineering Projects
 
 ### 📡 Swasthya Vaani
-> **Multilingual Voice-Assisted Medicine Information System**
+> **Multilingual Voice-Assisted Medicine Information System**[cite: 1]
 
-* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose high-throughput REST APIs tailored for managing drug, dosage, and medical symptom schemas.
-* **Data Persistence:** Implemented robust object-relational mapping using **Hibernate** and JPA over a **MySQL** database cluster for consistent CRUD execution.
-* **Accessibility:** Integrated sophisticated voice-based matching APIs to significantly lower user-interaction friction.
-* **Stack:** `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs`
+* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose high-throughput REST APIs tailored for managing drug, dosage, and medical symptom schemas[cite: 1].
+* **Data Persistence:** Implemented robust object-relational mapping using **Hibernate** and JPA over a **MySQL** database cluster for consistent CRUD execution[cite: 1].
+* **Accessibility:** Integrated sophisticated voice-based matching APIs to significantly lower user-interaction friction[cite: 1].
+* **Stack:** `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs`[cite: 1]
 
 ### 📊 Mentor Matrix
 > **Enterprise Mentoring & Workflow Management Platform**
@@ -67,14 +72,14 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 
 ## 🏆 Key Milestones
 
-* **🥈 Adobe India Hackathon (2025):** Cleared rigorous core logic, algorithmic, and coding benchmarks in Round 1 with *Team Code Verse*.
-* **💡 Generative AI Tech Forum (2025):** Participated actively in the "Embracing Generative AI" initiative at PDIT Hospete.
+* **🥈 Adobe India Hackathon (2025):** Cleared rigorous core logic, algorithmic, and coding benchmarks in Round 1 with *Team Code Verse*[cite: 1].
+* **💡 Generative AI Tech Forum (2025):** Participated actively in the "Embracing Generative AI" initiative at PDIT Hospete[cite: 1].
 
 ---
 
 ## 🤝 Drop a Line
 
-I am looking for dynamic engineering spaces where I can ship high-impact Java applications. Let's discuss backend architecture!
+I am looking for dynamic engineering spaces where I can ship high-impact Java applications[cite: 1]. Let's discuss backend architecture!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-c-k-991005280/" target="_blank">
