@@ -1,83 +1,90 @@
-<h1 align="center">👋 Hi, I'm Sachin Kudatini</h1>
-<h3 align="center">Java Full Stack Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=007396&height=220&section=header&text=Sachin%20Kudatini&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007396&center=true&vCenter=true&width=500&lines=Core+Java+%26+Spring+Boot;Building+Scalable+REST+APIs;Database+Integration+%26+CRUD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Enterprise+APIs;Database+Architect+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sachin2003-WD">
     <img src="https://komarev.com/ghpvc/?username=Sachin2003-WD&label=PROFILE+VIEWS&color=007396&style=for-the-badge&logo=github" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Java+Full+Stack-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise+Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Focus" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-📍?style=for-the-badge&color=2c3e50" alt="Location" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🪐 About Me
 
-Enthusiastic **Java Full Stack Developer** with strong foundational knowledge in building end-to-end applications, designing backend REST APIs, and managing database systems. Currently based in Bengaluru, Karnataka, I am deeply passionate about writing clean, scalable code and continuously engineering robust solutions.
+A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade backend microservices, structuring scalable relational databases, and crafting clean web architectures. 
 
-* 🎓 **Education:** Pursuing a Bachelor of Engineering in Computer Science & Engineering at Proudhadevaraya Institute of Technology (2022 - 2026).
-* 🚀 **Current Training:** Java Full Stack Trainee at JSpiders (Rajajinagar, Bengaluru).
-* 🛠️ **Core Focus:** Enterprise architecture, object-oriented design, relational database mapping, and API development].
+* **🎯 Path & Trajectory:** Completing a Bachelor of Engineering in Computer Science & Engineering (2022 - 2026) while undergoing rigorous industry-grade training as a **Java Full Stack Trainee** at JSpiders, Rajajinagar.
+* **⚡ Architectural Mindset:** Focused on mastering the complexities of the Spring ecosystem, relational mappings (ORM), database optimization, and high-performance server logic.
 
 ---
 
-## ⚙️ Technical Toolkit
-
-Structured rigorously around enterprise Java development practices:
+## 🛠️ Technical Ecosystem
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,maven,git,eclipse" alt="Tech Stack Icons" />
 </p>
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Java, SQL |
-| **Backend Frameworks** | Spring Boot, JDBC, Hibernate, Servlets, JSP, REST APIs |
-| **Frontend Development** | HTML, CSS, JavaScript |
-| **Databases** | MySQL, Oracle SQL |
-| **Tools & Ecosystem** | Git, GitHub, Maven, Eclipse IDE |
-| **Core Concepts** | OOPs, Collections Framework, Exception Handling, CRUD Operations |
+### 💻 Backend Engineering
+* **Languages:** Core Java (OOPs, Collections Framework, Exception Handling), SQL
+* **Frameworks & Specs:** Spring Boot, Hibernate ORM, JDBC, Java Servlets, JSP
+* **API Design:** RESTful Web Services, CRUD Architecture
+
+### 🗄️ Database & Environment
+* **Data Management:** MySQL, Oracle SQL
+* **Tools & Automation:** Maven, Git, GitHub, Eclipse IDE
+
+### 🎨 Client Layer
+* **Web UI:** HTML5, CSS3, JavaScript (ES6+)
 
 ---
 
-## ✨ Featured Projects
+## 🚀 Signature Engineering Projects
 
-### 🌐 [Swasthya Vaani](https://github.com/Sachin2003-WD)
-*Multilingual Voice-Assisted Medicine Information System*
-* **Overview:** Developed a healthcare information backend system using Java and Spring Boot to streamline data access.
-* **Backend & API:** Designed secure REST APIs optimized for managing drug information, diseases, symptoms, and dosages].
-* **Persistence:** Utilized Hibernate and JPA for reliable database operations and data management with a MySQL database].
-* **Accessibility:** Integrated a voice-based search interface to optimize the user experience.
-* **Tech Stack:** Java, Spring Boot, MySQL, Hibernate, JPA, REST APIs.
+### 📡 Swasthya Vaani
+> **Multilingual Voice-Assisted Medicine Information System**
 
-### 🤝 [Mentor Matrix](https://github.com/Sachin2003-WD/mentor-matrix.git)
-*Mentoring & System Management Platform*
-* **Overview:** A robust full-stack solution designed to streamline collaboration, scheduling, and system workflows between mentors and students.
-* **Backend & Architecture:** Structured with object-oriented principles, utilizing scalable design methodologies to efficiently perform CRUD operations and maintain data integrity.
-* **Integration:** Seamlessly maps system interactions onto database architectures to ensure efficient reporting and management tracking.
-* **Tech Stack:** Java, SQL, Core Web Technologies.
+* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose high-throughput REST APIs tailored for managing drug, dosage, and medical symptom schemas.
+* **Data Persistence:** Implemented robust object-relational mapping using **Hibernate** and JPA over a **MySQL** database cluster for consistent CRUD execution.
+* **Accessibility:** Integrated sophisticated voice-based matching APIs to significantly lower user-interaction friction.
+* **Stack:** `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs`
 
----
+### 📊 Mentor Matrix
+> **Enterprise Mentoring & Workflow Management Platform**
 
-## 🏆 Achievements
-
-* 🏅 **Adobe India Hackathon (2025):** Received a Certificate of Participation for successfully clearing Round 1 (MCQ + Coding challenges) alongside *Team Code Verse*.
-* 🧠 **Generative AI Forum (2025):** Participated in the "Embracing Generative AI" event organized by PDIT Hospete].
+* **Architecture:** Structured a highly modular tracking backend optimized for performance and maintainability across scheduling matrices.
+* **Logic Tier:** Utilized robust Core Java patterns and SQL query sets to manage seamless state updates, dynamic assignments, and data auditing.
+* **Integrity:** Enforced strict relational schema design rules ensuring flawless transactional management across student-mentor lifecycles.
+* **Stack:** `Java` `Spring Core` `SQL` `Web Technologies`
 
 ---
 
-## 💌 Let's Connect
+## 🏆 Key Milestones
 
-I am actively looking for opportunities to contribute as a Java Full Stack Developer. Please reach out if you'd like to collaborate or discuss backend engineering roles!
+* **🥈 Adobe India Hackathon (2025):** Cleared rigorous core logic, algorithmic, and coding benchmarks in Round 1 with *Team Code Verse*.
+* **💡 Generative AI Tech Forum (2025):** Participated actively in the "Embracing Generative AI" initiative at PDIT Hospete.
+
+---
+
+## 🤝 Drop a Line
+
+I am looking for dynamic engineering spaces where I can ship high-impact Java applications. Let's discuss backend architecture!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-c-k-991005280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:cksachin94@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-cksachin94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
+</p>
+
+<p align="right">
+  <i>"Clean code is not written, it is engineered."</i> ☕
 </p>
