@@ -16,17 +16,17 @@
 
 ## 💡 About Me
 
-Enthusiastic **Java Full Stack Developer** with strong foundational knowledge in building end-to-end applications, designing backend REST APIs, and managing database systems[cite: 1]. Currently based in Bengaluru, Karnataka[cite: 1], I am deeply passionate about writing clean, scalable code and continuously engineering robust solutions[cite: 1].
+Enthusiastic **Java Full Stack Developer** with strong foundational knowledge in building end-to-end applications, designing backend REST APIs, and managing database systems. Currently based in Bengaluru, Karnataka, I am deeply passionate about writing clean, scalable code and continuously engineering robust solutions.
 
-* 🎓 **Education:** Pursuing a Bachelor of Engineering in Computer Science & Engineering at Proudhadevaraya Institute of Technology (2022 - 2026)[cite: 1].
-* 🚀 **Current Training:** Java Full Stack Trainee at JSpiders (Rajajinagar, Bengaluru)[cite: 1].
-* 🛠️ **Core Focus:** Enterprise architecture, object-oriented design, relational database mapping, and API development[cite: 1].
+* 🎓 **Education:** Pursuing a Bachelor of Engineering in Computer Science & Engineering at Proudhadevaraya Institute of Technology (2022 - 2026).
+* 🚀 **Current Training:** Java Full Stack Trainee at JSpiders (Rajajinagar, Bengaluru).
+* 🛠️ **Core Focus:** Enterprise architecture, object-oriented design, relational database mapping, and API development].
 
 ---
 
 ## ⚙️ Technical Toolkit
 
-Structured rigorously around enterprise Java development practices[cite: 1]:
+Structured rigorously around enterprise Java development practices:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,maven,git,eclipse" alt="Tech Stack Icons" />
@@ -34,24 +34,24 @@ Structured rigorously around enterprise Java development practices[cite: 1]:
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Java, SQL[cite: 1] |
-| **Backend Frameworks** | Spring Boot, JDBC, Hibernate, Servlets, JSP, REST APIs[cite: 1] |
-| **Frontend Development** | HTML, CSS, JavaScript[cite: 1] |
-| **Databases** | MySQL, Oracle SQL[cite: 1] |
-| **Tools & Ecosystem** | Git, GitHub, Maven, Eclipse IDE[cite: 1] |
-| **Core Concepts** | OOPs, Collections Framework, Exception Handling, CRUD Operations[cite: 1] |
+| **Languages** | Java, SQL |
+| **Backend Frameworks** | Spring Boot, JDBC, Hibernate, Servlets, JSP, REST APIs |
+| **Frontend Development** | HTML, CSS, JavaScript |
+| **Databases** | MySQL, Oracle SQL |
+| **Tools & Ecosystem** | Git, GitHub, Maven, Eclipse IDE |
+| **Core Concepts** | OOPs, Collections Framework, Exception Handling, CRUD Operations |
 
 ---
 
 ## ✨ Featured Projects
 
 ### 🌐 [Swasthya Vaani](https://github.com/Sachin2003-WD)
-*Multilingual Voice-Assisted Medicine Information System*[cite: 1]
-* **Overview:** Developed a healthcare information backend system using Java and Spring Boot to streamline data access[cite: 1].
-* **Backend & API:** Designed secure REST APIs optimized for managing drug information, diseases, symptoms, and dosages[cite: 1].
-* **Persistence:** Utilized Hibernate and JPA for reliable database operations and data management with a MySQL database[cite: 1].
-* **Accessibility:** Integrated a voice-based search interface to optimize the user experience[cite: 1].
-* **Tech Stack:** Java, Spring Boot, MySQL, Hibernate, JPA, REST APIs[cite: 1].
+*Multilingual Voice-Assisted Medicine Information System*
+* **Overview:** Developed a healthcare information backend system using Java and Spring Boot to streamline data access.
+* **Backend & API:** Designed secure REST APIs optimized for managing drug information, diseases, symptoms, and dosages].
+* **Persistence:** Utilized Hibernate and JPA for reliable database operations and data management with a MySQL database].
+* **Accessibility:** Integrated a voice-based search interface to optimize the user experience.
+* **Tech Stack:** Java, Spring Boot, MySQL, Hibernate, JPA, REST APIs.
 
 ### 🤝 [Mentor Matrix](https://github.com/Sachin2003-WD/mentor-matrix.git)
 *Mentoring & System Management Platform*
@@ -64,14 +64,14 @@ Structured rigorously around enterprise Java development practices[cite: 1]:
 
 ## 🏆 Achievements
 
-* 🏅 **Adobe India Hackathon (2025):** Received a Certificate of Participation for successfully clearing Round 1 (MCQ + Coding challenges) alongside *Team Code Verse*[cite: 1].
-* 🧠 **Generative AI Forum (2025):** Participated in the "Embracing Generative AI" event organized by PDIT Hospete[cite: 1].
+* 🏅 **Adobe India Hackathon (2025):** Received a Certificate of Participation for successfully clearing Round 1 (MCQ + Coding challenges) alongside *Team Code Verse*.
+* 🧠 **Generative AI Forum (2025):** Participated in the "Embracing Generative AI" event organized by PDIT Hospete].
 
 ---
 
 ## 💌 Let's Connect
 
-I am actively looking for opportunities to contribute as a Java Full Stack Developer[cite: 1]. Please reach out if you'd like to collaborate or discuss backend engineering roles!
+I am actively looking for opportunities to contribute as a Java Full Stack Developer. Please reach out if you'd like to collaborate or discuss backend engineering roles!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-c-k-991005280/" target="_blank">
