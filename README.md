@@ -25,7 +25,7 @@
 
 ## 🪐 About Me
 
-A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade backend microservices, structuring scalable relational databases, and crafting clean web architectures. 
+A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade frontend, backend, structuring scalable relational databases, and crafting clean web architectures. 
 
 * **🎯 Path & Trajectory:** Completing a Bachelor of Engineering in Computer Science & Engineering (2022 - 2026) while undergoing rigorous industry-grade training as a **Java Full Stack Trainee** at JSpiders, Rajajinagar.
 * **⚡ Architectural Mindset:** Focused on mastering the complexities of the Spring ecosystem, relational mappings (ORM), database optimization, and high-performance server logic.
