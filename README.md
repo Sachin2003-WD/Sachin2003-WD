@@ -31,8 +31,8 @@ I am an enthusiastic **Java Full Stack Developer** and **AI/ML explorer** based 
 My skills cover both high-performance backend frameworks and modern rapid-prototyping environments.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,python,streamlit,react,html,css,js,maven,git" 
-       alt="Java, Spring, MySQL, Hibernate, Python, Streamlit, React, HTML, CSS, JavaScript, Maven, Git Icons" 
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,streamlit,html,css,js,maven,git,springmvc,springboot,github" 
+       alt="Java, Spring, MySQL, Hibernate, Streamlit, HTML, CSS, JavaScript, Maven, Git Icons,Spring MVC, Spring Boot, Github" 
        style="margin-bottom: 10px;"/>
 </p>
 
