@@ -35,7 +35,7 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 ## 🛠️ Technical Ecosystem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,maven,git,eclipse" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,maven,git,github,eclipse" alt="Tech Stack Icons" />
 </p>
 
 ### 💻 Backend Engineering
