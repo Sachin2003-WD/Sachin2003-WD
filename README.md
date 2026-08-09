@@ -32,7 +32,7 @@
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin2003-WD&theme=minimal&hide_border=true&bg_color=ffffff&color=007396&line=007396&point=2c3e50&area=true&area_color=007396" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/007396/Sachin2003-WD" alt="Sachin's GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
