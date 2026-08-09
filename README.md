@@ -29,15 +29,11 @@
 
 ---
 
-## 📅 Coding Journey
+## 📅 Contribution Activity
 
-<!-- DAYS-COUNTER:START -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Days_Writing_Code-1%2C234_days-007396?style=for-the-badge&logo=clockify&logoColor=white" alt="Days coding" />
-</div>
-<!-- DAYS-COUNTER:END -->
-
-<p align="center"><sub>Auto-updated daily via GitHub Actions — see <code>.github/workflows/day-counter.yml</code></sub></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin2003-WD&theme=minimal&hide_border=true&bg_color=ffffff&color=007396&line=007396&point=2c3e50&area=true&area_color=007396" alt="Contribution Activity Graph" width="100%" />
+</p>
 
 ---
 
