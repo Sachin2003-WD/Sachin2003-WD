@@ -10,7 +10,7 @@
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Enterprise+APIs;Database+Architect+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Enterprise+APIs;Smart+Attendance+System+Developer;Database+Architect+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,10 +25,11 @@
 
 ## 🪐 About Me
 
-A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade frontend, backend, structuring scalable relational databases, and crafting clean web architectures. 
+A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. Armed with an analytical approach to object-oriented programming, I specialize in building enterprise-grade frontend applications, backend services, scalable relational databases, and clean web architectures.
 
 * **🎯 Path & Trajectory:** Completing a Bachelor of Engineering in Computer Science & Engineering (2022 - 2026) while undergoing rigorous industry-grade training as a **Java Full Stack Trainee** at JSpiders, Rajajinagar.
-* **⚡ Architectural Mindset:** Focused on mastering the complexities of the Spring ecosystem, relational mappings (ORM), database optimization, and high-performance server logic.
+* **⚡ Architectural Mindset:** Focused on mastering the Spring ecosystem, relational mappings (ORM), database optimization, REST API development, authentication, and high-performance server-side applications.
+* **🚀 Current Focus:** Building real-world applications such as **Attendrix Smart Attendance System** with a focus on automation, secure attendance tracking, and efficient database management.
 
 ---
 
@@ -39,36 +40,58 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 </p>
 
 ### 💻 Backend Engineering
+
 * **Languages:** Core Java (OOPs, Collections Framework, Exception Handling), SQL
-* **Frameworks & Specs:** Spring Boot, Hibernate ORM, JDBC, Java Servlets, JSP
+* **Frameworks & Specs:** Spring Boot, Hibernate ORM, JPA, JDBC, Java Servlets, JSP
 * **API Design:** RESTful Web Services, CRUD Architecture
+* **Security:** Authentication, Authorization, OTP Verification and Role-Based Access
 
 ### 🗄️ Database & Environment
+
 * **Data Management:** MySQL, Oracle SQL
+* **ORM:** Hibernate, JPA
 * **Tools & Automation:** Maven, Git, GitHub, Eclipse IDE
 
 ### 🎨 Client Layer
+
 * **Web UI:** HTML5, CSS3, JavaScript (ES6+)
+* **Frontend Architecture:** Responsive dashboards and role-based interfaces
 
 ---
 
 ## 🚀 Signature Engineering Projects
 
+### 📱 Attendrix
+
+> **Smart Attendance Management System**
+
+* **System Design:** Developed a centralized attendance management platform designed to automate and simplify student and mentor attendance tracking.
+* **Role-Based Architecture:** Implemented separate workflows for **Admin, Mentor/Faculty, and Student** users with controlled access to system features.
+* **Smart Attendance:** Designed an automated attendance workflow using **QR-based attendance**, allowing authorized users to mark attendance efficiently.
+* **Dashboard Management:** Built role-specific dashboards for monitoring attendance records, users, assignments, and system activities.
+* **Authentication:** Implemented secure login, registration, OTP verification, and role-based authorization.
+* **Data Management:** Structured relational database entities for students, mentors, attendance records, users, and assignments using **MySQL, JPA, and Hibernate**.
+* **Backend Architecture:** Developed modular REST APIs using **Spring Boot** following Controller, Service, Repository, and Entity layers.
+* **Scalability:** Designed the application with a clean layered architecture to support future features such as attendance analytics, notifications, reporting, and administrative monitoring.
+* **Stack:** `Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL` `REST APIs` `HTML` `CSS` `JavaScript` `Maven`
+
 ### 📡 Swasthya Vaani
+
 > **Multilingual Voice-Assisted Medicine Information System**
 
-* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose high-throughput REST APIs tailored for managing drug, dosage, and medical symptom schemas.
-* **Data Persistence:** Implemented robust object-relational mapping using **Hibernate** and JPA over a **MySQL** database cluster for consistent CRUD execution.
-* **Accessibility:** Integrated sophisticated voice-based matching APIs to significantly lower user-interaction friction.
+* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose REST APIs tailored for managing drug, dosage, and medical symptom schemas.
+* **Data Persistence:** Implemented object-relational mapping using **Hibernate** and JPA over a **MySQL** database for consistent CRUD operations.
+* **Accessibility:** Integrated voice-based interaction and multilingual support to reduce user-interaction barriers.
 * **Stack:** `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs`
 
 ### 📊 Mentor Matrix
+
 > **Enterprise Mentoring & Workflow Management Platform**
 
-* **Architecture:** Structured a highly modular tracking backend optimized for performance and maintainability across scheduling matrices.
-* **Logic Tier:** Utilized robust Core Java patterns and SQL query sets to manage seamless state updates, dynamic assignments, and data auditing.
-* **Integrity:** Enforced strict relational schema design rules ensuring flawless transactional management across student-mentor lifecycles.
-* **Stack:** `Java` `Spring Core` `SQL` `Web Technologies`
+* **Architecture:** Structured a modular tracking backend optimized for performance and maintainability across mentoring workflows.
+* **Logic Tier:** Utilized Core Java and SQL query sets to manage assignments, scheduling, student-mentor relationships, and dynamic state updates.
+* **Integrity:** Applied relational database design principles to maintain consistency across student, mentor, and administrative workflows.
+* **Stack:** `Java` `Spring Boot` `SQL` `MySQL` `Web Technologies`
 
 ---
 
@@ -79,9 +102,21 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 
 ---
 
+## 📈 Current Engineering Focus
+
+* Building production-ready **Spring Boot REST APIs**
+* Improving **SQL and database optimization**
+* Developing secure **authentication and authorization systems**
+* Working with **JPA and Hibernate**
+* Building scalable **Java Full Stack applications**
+* Practicing **DSA and problem solving in Java**
+* Designing real-world systems such as **Attendrix Smart Attendance System**
+
+---
+
 ## 🤝 Drop a Line
 
-I am looking for dynamic engineering spaces where I can ship high-impact Java applications. Let's discuss backend architecture!
+I am looking for dynamic engineering spaces where I can ship high-impact Java applications and contribute to scalable backend systems. Let's discuss backend architecture, Java development, and real-world application engineering!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-c-k-991005280/" target="_blank">
