@@ -1,9 +1,9 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td bgcolor="#007396" align="center" style="padding: 40px 10px; border-radius: 8px;">
+      <td bgcolor="#007396" align="center" style="padding: 40px 10px; border-radius: 50px;">
         <h1 style="color: #ffffff; font-family: 'Fira Code', monospace; margin: 0; font-size: 38px; letter-spacing: 2px;">SACHIN KUDATINI</h1>
-        <p style="color: red; font-family: 'Segoe UI', sans-serif; margin: 10px 0 0 0; font-size: 18px; font-weight: 300; letter-spacing: 1px;">JAVA FULL STACK DEVELOPER</p>
+        <p style="color: #ffffff; font-family: 'Segoe UI', sans-serif; margin: 10px 0 0 0; font-size: 18px; font-weight: 300; letter-spacing: 1px;">JAVA FULL STACK DEVELOPER</p>
       </td>
     </tr>
   </table>
