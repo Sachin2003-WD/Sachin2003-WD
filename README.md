@@ -114,6 +114,18 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 
 ---
 
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin2003-WD/Sachin2003-WD/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin2003-WD/Sachin2003-WD/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin2003-WD/Sachin2003-WD/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🤝 Drop a Line
 
 I am looking for dynamic engineering spaces where I can ship high-impact Java applications and contribute to scalable backend systems. Let's discuss backend architecture, Java development, and real-world application engineering!
