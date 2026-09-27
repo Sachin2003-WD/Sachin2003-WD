@@ -82,7 +82,7 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 * **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose REST APIs tailored for managing drug, dosage, and medical symptom schemas.
 * **Data Persistence:** Implemented object-relational mapping using **Hibernate** and JPA over a **MySQL** database for consistent CRUD operations.
 * **Accessibility:** Integrated voice-based interaction and multilingual support to reduce user-interaction barriers.
-* **Stack:** `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs`
+* **Stack:** `React.js` `Firebase` `Python` `Gemini API` `OCR` `REST APIs`
 
 ### 📊 Mentor Matrix
 
