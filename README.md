@@ -77,11 +77,9 @@ A forward-thinking **Java Full Stack Developer** based in Bengaluru, Karnataka. 
 
 ### 📡 Swasthya Vaani
 
-> **Multilingual Voice-Assisted Medicine Information System**
+**SwasthyaVaani – Multilingual Voice-Assisted Medicine Information System**
 
-* **System Design:** Engineered an accessible backend ecosystem leveraging **Spring Boot** to expose REST APIs tailored for managing drug, dosage, and medical symptom schemas.
-* **Data Persistence:** Implemented object-relational mapping using **Hibernate** and JPA over a **MySQL** database for consistent CRUD operations.
-* **Accessibility:** Integrated voice-based interaction and multilingual support to reduce user-interaction barriers.
+Developed a multilingual medicine information system for providing accessible medicine, dosage, and symptom-related information. Integrated **React.js, Python, Gemini API, OCR, Firebase, and REST APIs** to support voice-based interaction, medicine image processing, and multilingual accessibility. Worked on **API integration, database management, frontend-backend communication, and AI-based medicine information processing**.
 * **Stack:** `React.js` `Firebase` `Python` `Gemini API` `OCR` `REST APIs`
 
 ### 📊 Mentor Matrix
